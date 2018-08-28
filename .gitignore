@@ -1,0 +1,35 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.class
+*.class
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/.settings
+/bin
+*/target/*
+target
+/logs
+*/out/
+
+# filter config files, except .gitignore
+*.MF
+!.gitignore
+*.iml
+*.exe
+# eclipse ignore
+.project
+.classpath
+
+!application.properties
